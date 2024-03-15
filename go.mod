@@ -1,4 +1,4 @@
-module github.com/blue0moon02/appcmdmanager
+module github.com/bluemoontwo/appcmdmanager
 
 go 1.19
 
